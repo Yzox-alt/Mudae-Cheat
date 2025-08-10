@@ -1,12 +1,6 @@
 <h1 align="center">Mudae_cheat | Auto Claim & Auto Roll !</h1>
 <em><h5 align="center">(Programming Language - Node.js | Shell)</h5></em>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/RimuruTempest750/Mudae_cheat">
-  <img src="https://img.shields.io/github/license/RimuruTempest750/Mudae_cheat">
-  <img src="https://img.shields.io/github/repo-size/RimuruTempest750/Mudae_cheat">
-  <img src="https://img.shields.io/badge/stability-stable-green">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/module-name">
@@ -24,7 +18,7 @@
 - Run command :
 
 ```shell script
-bash <(curl -s https://raw.githubusercontent.com/RimuruTempest750/Mudae_cheat/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Yzox-alt/Mudae_cheat/main/setup.sh)
 ```
 <h5>B) Manual installer</h5>
 
@@ -36,7 +30,7 @@ apt-get install -y nodejs
 ```
 
 ```shell script
-git clone https://github.com/RimuruTempest750/Mudae_cheat.git
+git clone https://github.com/Yzox-alt/Mudae_cheat.git
 cd Mudae_cheat/
 npm i
 npm i pm2 -g
